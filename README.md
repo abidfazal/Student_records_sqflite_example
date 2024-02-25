@@ -1,6 +1,6 @@
 # student_records
 
-A new Flutter project.
+this sample flutter app will help you to implement the flutter local database using Sqflite.
 
 ## Getting Started
 
